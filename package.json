@@ -1,0 +1,19 @@
+{
+  "name": "feri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-tw": "npx tailwindcss -i ./themes/blogaku/assets/css/input.css -o ./themes/blogaku/assets/css/style.css",
+    "watch-tw": "npx tailwindcss -i ./themes/blogaku/assets/css/input.css -o ./themes/blogaku/assets/css/style.css -w --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  }
+}

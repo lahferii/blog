@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div>
+  <div class="mb-10">
+    <div class="text-slate-800 tracking-wide leading-relaxed">
+      {{ .Content }}
+    </div>
+  </div>
+  {{ range site.RegularPages }}
+    <div class="my-5 py-5 border-b border-black group">
+      <a href="{{ .RelPermalink }}">
+        <h2 class="text-2xl md:text-4xl uppercase tracking-wider text-slate-800 group-hover:text-slate-500 duration-300">
+          {{ .LinkTitle }}
+        </h2>
+      </a>
+    </div>
+  {{ end }}
+</div>
+{{ end }}
