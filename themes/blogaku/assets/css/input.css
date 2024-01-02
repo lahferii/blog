@@ -7,9 +7,9 @@
     @apply w-full rounded-md
   }
   p{
-    @apply mb-5
+    @apply mb-3
   }
   h2{
-    @apply text-xl font-semibold uppercase tracking-wider leading-relaxed mb-2 mt-10
+    @apply text-xl font-semibold uppercase tracking-wider leading-relaxed mb-3 mt-10
   }
 }

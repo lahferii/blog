@@ -1,12 +1,10 @@
 +++
 title = 'Seleksi Nasional Berbasis Tes'
-author = "Feri Nurjaman"
 date = 2024-01-02T05:52:58+08:00
 draft = false
 +++
 
 ![alt](/images/exam.jpg)
-
 
 Teori lainnya, istananya mungkin aja dirobohin. Misalnya, kalo Raja Sulaiman mati, mungkin orang-orang setelahnya pada bongkar semua dan pake bahan-bahannya buat sesuatu yang lain. Teori ini agak masuk akal, karena kita tahu bahwa istana itu dibangun dari bahan-bahan yang wow banget. Ada pilar dari kayu aras, dinding emas, dan berbagai macam bahan mewah lainnya. Mungkin orang-orang pada pengen pakai bahan-bahan itu buat proyek atau bangunan mereka sendiri, dan itulah kenapa ga ada sisa-sisa bekas istana.
 
@@ -17,6 +15,7 @@ Ada yang bilang istana Sulaiman mungkin dibangun di atas platform buatan manusia
 Tentu aja, ini semua cuma spekulasi. Kebenerannya, kita ga tau banget kenapa ga ada bekas istana Sulaiman yang masih ada sekarang. Ini misteri yang bikin arkeolog dan sejarawan bingung banget selama berabad-abad. Ada juga yang bilang mungkin istananya ga pernah beneran ada, tapi cuma representasi metaforis dari kekuasaan dan kekayaan Raja Sulaiman. Tapi kayaknya itu ga mungkin, kan?
 
 ## Edit buat yang bawa-bawa atau kait-kaitkan Borobudur dengan Raja Salomo:
+[![alt](https://source.unsplash.com/random)](https://unsplash.com)
 
 Guys, klaim bahwa Candi Borobudur dibangun oleh Raja Sulaiman tuh nggak punya dukungan dari bukti sejarah atau arkeologi sama sekali. Kan Sulaiman tuh raja Israel yang hidup di abad ke-10 SM, sedangkan Candi Borobudur dibangun di abad ke-9 Masehi di wilayah Jawa Tengah, Indonesia. Jadi nggak ada catatan sama sekali tentang kontak atau interaksi antara Israel dan Indonesia pada masa itu.
 

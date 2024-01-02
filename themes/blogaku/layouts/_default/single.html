@@ -1,9 +1,9 @@
 {{ define "main" }}
   <div class="mb-5">
+    <!-- <time class="text-slate-600 tracking-widest leading-relaxed" datetime="{{ .Date }}" title="{{ .Date }}">
+      Dirilis pada {{ .Date.Format "2 Januari 2006" }}
+    </time> -->
     <h1 class="text-4xl uppercase tracking-wider leading-relaxed text-slate-800 mb-5">{{ .Title }}</h1>
-    <time class="text-slate-800 tracking-wider leading-relaxed" datetime="{{ .Date }}" title="{{ .Date }}">
-        Ditulis oleh {{ .Author }} pada {{ .Date.Format "2 January 2006" }}
-    </time>
   </div>
 
   <div class="text-slate-800 tracking-wide leading-relaxed">
