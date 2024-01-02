@@ -2,7 +2,8 @@
 module.exports = {
   content: [
     "./layouts/**/*.html",
-    "./themes/blogaku/layouts/**/*.html"
+    "./public/*.html",
+    "./themes/**/layouts/**/*.html"
   ],
   theme: {
     extend: {},
