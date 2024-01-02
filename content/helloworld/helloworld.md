@@ -16,8 +16,10 @@ Setelah membaca beberapa artikel, Penulis menyadari bahwa berbagai media cukup s
 
 > Direktorat Jenderal Kekayaan Negara (2021: 15) berpendapat bahwa menulis dapat membantu Anda meluapkan emosi yang sedang Anda rasakan dan pendam. Anda bebas membuat tulisan ketika sedang sedih, senang, galau, marah atau lainnya saat tidak bisa bercerita kepada orang lain. Percaya atau tidak, cara ini sangat manjur untuk menuangkan emosi Anda sehingga tidak ada yang terpendam.
 
-Berhubung Penulis merupakan *programmer* yang sangat pandai dan luar biasa, Penulis memutuskan untuk membuat *blog* alih-alih menuliskannya pada selembar kertas. Lagipula, manusia macam apa yang mau mencatat semua isi kepalanya setiap hari?
-
 ## Keputusan
 
-Lanjut nanti aja, hehe.
+Dengan tidak melupakan fakta bahwa Penulis merupakan *programmer* yang sangat pandai dan luar biasa, Penulis memutuskan untuk membuat *blog* alih-alih menuliskannya pada selembar kertas. Lagipula, manusia macam apa yang mau mencatat semua isi kepalanya setiap hari?
+
+Namun, sayangnya Penulis tidak dapat memastikan berapa banyak artikel yang dirilis dalam rentang waktu tertentu, akan membahas apa artikel selanjutnya dan apakah Penulis akan tetap konsisten membuat artikel atau tidak. 
+
+Sekian, Terima Kasih!
