@@ -1,5 +1,6 @@
 +++
 title = 'Seleksi Nasional Berbasis Tes'
+author = "Feri Nurjaman"
 date = 2024-01-02T05:52:58+08:00
 draft = false
 +++
