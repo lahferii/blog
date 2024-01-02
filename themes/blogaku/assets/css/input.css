@@ -3,10 +3,13 @@
 @tailwind utilities;
 
 @layer base{
+  img{
+    @apply w-full rounded-md
+  }
   p{
     @apply mb-5
   }
-  img{
-    @apply w-full rounded-md
+  h2{
+    @apply text-xl font-semibold uppercase tracking-wider leading-relaxed mb-2 mt-10
   }
 }
