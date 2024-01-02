@@ -12,4 +12,10 @@
   h2{
     @apply text-xl font-semibold uppercase tracking-wider leading-relaxed mb-3 mt-10
   }
+  pre {
+    @apply p-3 rounded-md mb-5 overflow-auto
+  }
+  blockquote{
+    @apply pl-5 border-l border-black text-slate-600
+  }
 }
