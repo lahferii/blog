@@ -6,7 +6,11 @@ module.exports = {
     "./themes/**/layouts/**/*.html"
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily :{ 
+        helvetica: ["helvetica", "serif"], 
+      } 
+    },
   },
   plugins: [],
 }

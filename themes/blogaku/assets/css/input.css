@@ -2,7 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face { 
+  font-family: "helvetica"; 
+  src: url("../../static/font/Helvetica.ttf"); 
+}
+
 @layer base{
+  *{
+    @apply font-helvetica
+  }
   img{
     @apply w-full rounded-md
   }
@@ -10,7 +18,7 @@
     @apply mb-3
   }
   h2{
-    @apply text-xl font-semibold uppercase tracking-wider leading-relaxed mb-3 mt-10
+    @apply text-xl font-bold uppercase tracking-wider leading-relaxed mb-3 mt-10
   }
   pre {
     @apply p-3 rounded-md mb-5 overflow-auto
